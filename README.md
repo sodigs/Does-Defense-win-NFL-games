@@ -25,5 +25,6 @@ OLS Plot:
 
 Pairplot:
 
-![Final pairplot](https://user-images.githubusercontent.com/75696444/103423680-ed559d80-4b75-11eb-9be5-2bd181a65a89.png)
+![Final pairplot](https://user-images.githubusercontent.com/75696444/103423738-41f91880-4b76-11eb-888e-cb03228769d7.png)
+
 
