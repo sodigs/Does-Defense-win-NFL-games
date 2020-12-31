@@ -8,11 +8,7 @@ For 2010 to 2019, linear regressions were run on the data for each individual ye
 All the data from 2010 to 2019 was combined into one large data frame, and analysis was performed. I used XGboost to perform gradient boosting for regression analysis on the aggregated data set. Gradient boosting is a supervised machine learning algorithm that uses decision trees to help minimize loss when adding new models. I imported skicit_learn to create a training and testing data set, and combined with XG boost, trained the model to help predict Win Percentage based off of Total DVOA, Rush DVOA, and Pass DVOA. Overall there were 320 data points, however the best model that  was able to be built has a root mean square error of 0.19. So the average predicted win percentage was off by 19% from the true win percentage, which is quite large. So overall, with the data from the last 10 years, just knowing a team’s Total DVOA, Pass DVOA, and Rush DVOA is not enough to accurately predict their total win percentage. It is interesting to note however that XG boost found Total DVOA and Pass DVOA to be much more important features in predicting Win Percentage. Total DVOA has an F-score of 4, and Pass DVOA had an F score of 2. 
 
 Finally, I used OLS Regression on the aggregated data over all the years, regressing solely Total DVOA onto Win Percentage. Based off of the ten years of data I found:
--If you finished in the bottom 1% of defense that year in the league, you had a predicted win percentage of 31.6%
-	- Bottom 25%, expected win percentage of 34.4%
-	-Middle 50%, expected win percentage of 49%
-	-Top 25%, expected win percentage of 56.7%
-	-Top 1%, expected win percentage of 74.4%
+If you finished in the bottom 1% of defense that year in the league, you had a predicted win percentage of 31.6%. Bottom 25%, expected win percentage of 34.4%. Middle 50%, expected win percentage of 49%. Top 25%, expected win percentage of 56.7%. Top 1%, expected win percentage of 74.4%
 
 Heat Map for the correlation across data from 2010 to 2019:
 
