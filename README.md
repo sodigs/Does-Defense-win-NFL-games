@@ -20,8 +20,10 @@ Heat Map for the correlation across data from 2010 to 2019:
 ![Final heat map](https://user-images.githubusercontent.com/75696444/103423509-f98d2b00-4b74-11eb-9a4d-e3ab8a344719.png)
 
 OLS Plot:
+
 ![Final OLS Plot](https://user-images.githubusercontent.com/75696444/103423675-e6c72600-4b75-11eb-9199-703b148dd28e.png)
 
 Pairplot:
+
 ![Final pairplot](https://user-images.githubusercontent.com/75696444/103423680-ed559d80-4b75-11eb-9be5-2bd181a65a89.png)
 
