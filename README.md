@@ -15,5 +15,7 @@ Finally, I used OLS Regression on the aggregated data over all the years, regres
 	-Top 1%, expected win percentage of 74.4%
 
 Heat Map for the correlation across data from 2010 to 2019:
+
+
 ![Final heat map](https://user-images.githubusercontent.com/75696444/103423509-f98d2b00-4b74-11eb-9a4d-e3ab8a344719.png)
 
