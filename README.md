@@ -13,3 +13,5 @@ Finally, I used OLS Regression on the aggregated data over all the years, regres
 	-Middle 50%, expected win percentage of 49%
 	-Top 25%, expected win percentage of 56.7%
 	-Top 1%, expected win percentage of 74.4%
+
+Heat Map for the correlation across data from 2010 to 2019:
