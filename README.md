@@ -15,7 +15,7 @@ Finally, I used OLS Regression on the aggregated data over all the years, regres
 
 [OLS Regression explained](https://setosa.io/ev/ordinary-least-squares-regression/)
 
-Based off of the ten years of data I found:
+Based off of the 2010 to 2019 defensive data:
 
 -If you finished in the bottom 1% of defense that year in the league, you had a predicted win percentage of 31.6%. 
 
