@@ -13,7 +13,7 @@ All the data from 2010 to 2019 was combined into one large data frame, and analy
 
 Finally, I used OLS Regression on the aggregated data over all the years, regressing solely Total DVOA onto Win Percentage.
 
-(OLS Regression explained)[https://setosa.io/ev/ordinary-least-squares-regression/]
+[OLS Regression explained](https://setosa.io/ev/ordinary-least-squares-regression/)
 
 Based off of the ten years of data I found:
 
