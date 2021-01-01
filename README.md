@@ -1,5 +1,5 @@
 # Does-Defense-win-NFL-games
-I started out with the question, how important is defense to winning NFL games. 
+##I started out with the question, **How important is defense to winning NFL games?** 
 
 To track defensive play, we used the metric DVOA. [DVOA Explanation](https://www.footballoutsiders.com/info/methods) 
 
@@ -17,15 +17,15 @@ Finally, I used OLS Regression on the aggregated data over all the years, regres
 
 Based off of the ten years of data I found:
 
-If you finished in the bottom 1% of defense that year in the league, you had a predicted win percentage of 31.6%. 
+-If you finished in the bottom 1% of defense that year in the league, you had a predicted win percentage of 31.6%. 
 
-Bottom 25%, expected win percentage of 34.4%.
+-Bottom 25%, expected win percentage of 34.4%.
 
-Middle 50%, expected win percentage of 49%. 
+-Middle 50%, expected win percentage of 49%. 
 
-Top 25%, expected win percentage of 56.7%. 
+-Top 25%, expected win percentage of 56.7%. 
 
-Top 1%, expected win percentage of 74.4%
+-Top 1%, expected win percentage of 74.4%
 
 Heat Map for the correlation across data from 2010 to 2019:
 
