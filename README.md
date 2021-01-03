@@ -1,5 +1,5 @@
 # Does-Defense-win-NFL-games
-##I started out with the question: **How important is defense to winning NFL games?** 
+## I started out with the question: **How important is defense to winning NFL games?** 
 
 To track defensive play, we used the metric DVOA. [DVOA Explanation](https://www.footballoutsiders.com/info/methods) 
 
